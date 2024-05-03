@@ -1,2 +1,1 @@
-# Sixteen-Clothing
-https://jawad-jamil.github.io/Sixteen-Clothing/
+Responsive web design without bootstrap
